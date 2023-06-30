@@ -148,6 +148,7 @@ The following people are not part of the development team, but have been contrib
 * Andy Ford (AndyTWF)
 * Matthew Beaudin (mattbeaudin)
 * Øystein Dale (oystedal)
+* Aram Kazorian (aramk-hub)
 * Christian Schubert (Osmodium)
 * James Lord (RCTMASTA)
 * Brian Massino (Nazey), Lauren Watson (lwatson2016), Jason Myre (jmyre1999), Nicole Wright (nicolewright), Josh Tucker (joshtucker132)
