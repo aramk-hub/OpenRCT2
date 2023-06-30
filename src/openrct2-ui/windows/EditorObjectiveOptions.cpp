@@ -1002,7 +1002,6 @@ private:
         OnResize();
         InvalidateWidget(WIDX_TAB_2);
 
-
         const auto oldSize = _riddenRides.size();
         _riddenRides.clear();
         for (auto& currentRide : GetRideManager())
